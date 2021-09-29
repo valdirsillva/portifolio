@@ -1,0 +1,17 @@
+body {
+  overflow-x: hidden;
+}
+
+.galery-ci {
+  transition: 1s;
+  /* padding: 15px; */
+  /*width: 200px;*/
+}
+img {
+  padding: 10px;
+  border-radius: 20px;
+}
+.galery-ci img:hover {
+  filter: grayscale(100%);
+  transform: scale(1.1);
+}

@@ -1,0 +1,9 @@
+.c-content-feature-4{ border-right: 400px solid; border-top: 1006px solid transparent; border-bottom: 1006px solid transparent;  }
+.c-content-feature-4 .c-content-left { float: left;  }
+.c-content-feature-4 { width: 60%; }
+.c-bg-parallax { background-attachment: fixed; background-position: center center;  background-size: cover; background-color: transparent; min-width: 100%;}
+.c-border-right-white{ border-right-color: #FFF !important;   }
+.c-content-area.c-content-left, .c-contentarea, .c-content-right{ position: relative; z-index: -1; }
+.c-content-feature-4 .c-content-left { float: left; }
+.c-content-feature-4 .c-content-area, .c-content-feature-4 .c-feature-bg{ height: 750px; margin-bottom: -750px;  }
+.c-content-feature-4 .c-content-area{ width:  40%; }
