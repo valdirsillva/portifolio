@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -393,17 +394,63 @@
         <h2 class="mb-2">Certificados </h2>        
             <div class="galery-ci">
               <div class="row">
-                <?php
-                    $count = 20;
-                    for ($i=1; $i <= 14; $i++) { 
-                         $image =  "galeria/certificados/{$i}.jpg";
-                      ?>
-                      <div class="col-md-3 certificados">
-                      <a href="<?=$image?>" data-lightbox="mygallery" data-title="Comunicados internos">
-                      <img src="<?=$image?>" class="img-responsive"></a>
+                                      <div class="col-md-3 certificados">
+                      <a href="galeria/certificados/1.jpg" data-lightbox="mygallery" data-title="Comunicados internos">
+                      <img src="galeria/certificados/1.jpg" class="img-responsive"></a>
                     </div>
-                    <?php }  ?>
-              </div>
+                                          <div class="col-md-3 certificados">
+                      <a href="galeria/certificados/2.jpg" data-lightbox="mygallery" data-title="Comunicados internos">
+                      <img src="galeria/certificados/2.jpg" class="img-responsive"></a>
+                    </div>
+                                          <div class="col-md-3 certificados">
+                      <a href="galeria/certificados/3.jpg" data-lightbox="mygallery" data-title="Comunicados internos">
+                      <img src="galeria/certificados/3.jpg" class="img-responsive"></a>
+                    </div>
+                                          <div class="col-md-3 certificados">
+                      <a href="galeria/certificados/4.jpg" data-lightbox="mygallery" data-title="Comunicados internos">
+                      <img src="galeria/certificados/4.jpg" class="img-responsive"></a>
+                    </div>
+                                          <div class="col-md-3 certificados">
+                      <a href="galeria/certificados/5.jpg" data-lightbox="mygallery" data-title="Comunicados internos">
+                      <img src="galeria/certificados/5.jpg" class="img-responsive"></a>
+                    </div>
+                                          <div class="col-md-3 certificados">
+                      <a href="galeria/certificados/6.jpg" data-lightbox="mygallery" data-title="Comunicados internos">
+                      <img src="galeria/certificados/6.jpg" class="img-responsive"></a>
+                    </div>
+                                          <div class="col-md-3 certificados">
+                      <a href="galeria/certificados/7.jpg" data-lightbox="mygallery" data-title="Comunicados internos">
+                      <img src="galeria/certificados/7.jpg" class="img-responsive"></a>
+                    </div>
+                                          <div class="col-md-3 certificados">
+                      <a href="galeria/certificados/8.jpg" data-lightbox="mygallery" data-title="Comunicados internos">
+                      <img src="galeria/certificados/8.jpg" class="img-responsive"></a>
+                    </div>
+                                          <div class="col-md-3 certificados">
+                      <a href="galeria/certificados/9.jpg" data-lightbox="mygallery" data-title="Comunicados internos">
+                      <img src="galeria/certificados/9.jpg" class="img-responsive"></a>
+                    </div>
+                                          <div class="col-md-3 certificados">
+                      <a href="galeria/certificados/10.jpg" data-lightbox="mygallery" data-title="Comunicados internos">
+                      <img src="galeria/certificados/10.jpg" class="img-responsive"></a>
+                    </div>
+                                          <div class="col-md-3 certificados">
+                      <a href="galeria/certificados/11.jpg" data-lightbox="mygallery" data-title="Comunicados internos">
+                      <img src="galeria/certificados/11.jpg" class="img-responsive"></a>
+                    </div>
+                                          <div class="col-md-3 certificados">
+                      <a href="galeria/certificados/12.jpg" data-lightbox="mygallery" data-title="Comunicados internos">
+                      <img src="galeria/certificados/12.jpg" class="img-responsive"></a>
+                    </div>
+                                          <div class="col-md-3 certificados">
+                      <a href="galeria/certificados/13.jpg" data-lightbox="mygallery" data-title="Comunicados internos">
+                      <img src="galeria/certificados/13.jpg" class="img-responsive"></a>
+                    </div>
+                                          <div class="col-md-3 certificados">
+                      <a href="galeria/certificados/14.jpg" data-lightbox="mygallery" data-title="Comunicados internos">
+                      <img src="galeria/certificados/14.jpg" class="img-responsive"></a>
+                    </div>
+                                  </div>
           </div>
 
 
